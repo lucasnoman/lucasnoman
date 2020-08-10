@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="auto" src="https://drive.google.com/file/d/1LZm-sfaJ1X2MjJZIJE0mqog17TVByMzL/view?usp=sharing">
+<img width="auto" src="https://github.com/lucasnoman/lucasnoman/blob/master/8313f67d2546e50652d4e31f74a1a789.jpg">
 
 
 # Lucas C. Noman
