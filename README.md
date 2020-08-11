@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Lucas C. Noman
 
-## Bem vindo você é! 👋
+## Bem vindo, você é! 👋
 Grande fã de tecnologia e café.
 Sou desenvolvedor júnior :computer:
 
- :rocket:  &nbsp; Atualmente, filho da **PUC**
+ :school:  &nbsp; Atualmente, filho da **PUC**
  <br/> :green_book: &nbsp; A caminho de aprender mais e mais do desenvolvimento web e Vue.JS
  <br/> 💬  &nbsp; Sobre mim: Chegado também em segurança de informação, jogos como ESO e bastante seriados
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasCNoman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-calhau-noman-45209b95/)](https://www.linkedin.com/in/lucas-calhau-noman-45209b95/) 
