@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 # Lucas C. Noman
 
-## Bem vindo, você é! 👋
-Grande fã de tecnologia e café.
-Sou desenvolvedor júnior :computer:
+## Welcome, you are! 👋 <(-_-)>
+:coffee: Big fan of technology and coffee
+:computer: I'm junior developer
 
- :school:  &nbsp; Atualmente, filho da **PUC**
- <br/> :green_book: &nbsp; A caminho de aprender mais e mais do desenvolvimento web e Vue.JS
- <br/> 💬  &nbsp; Sobre mim: Chegado também em segurança de informação, jogos como ESO e bastante seriados
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasCNoman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-calhau-noman-45209b95/)](https://www.linkedin.com/in/lucas-calhau-noman-45209b95/) 
+ :school:  &nbsp; Currently, son of "a" **PUC**
+ <br/> :green_book: &nbsp; Aiming to learn more about web development and system security and Vue.JS
+ <br/> 💬  &nbsp; About me: I also like information security, games like ESO and a lot of series
+ <br/> :email: &nbsp; Contact me at: [![Linkedin Badge](https://img.shields.io/badge/-LucasCNoman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-calhau-noman-45209b95/)](https://www.linkedin.com/in/lucas-calhau-noman-45209b95/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucasnoman7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasnoman7@gmail.com)](mailto:lucasnoman7@gmail.com)
