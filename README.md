@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  :school:  &nbsp; Currently, son of "a" **PUC**
  <br/> :green_book: &nbsp; Aiming to learn more about web development and system security and Vue.JS
- <br/> 💬  &nbsp; About me: I also like information security, games like ESO and a lot of series
+ <br/> 💬  &nbsp; About me: I also like information security, play with Photoshop, games like ESO and a lot of series
  <br/> :email: &nbsp; Contact me at: [![Linkedin Badge](https://img.shields.io/badge/-LucasCNoman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-calhau-noman-45209b95/)](https://www.linkedin.com/in/lucas-calhau-noman-45209b95/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucasnoman7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasnoman7@gmail.com)](mailto:lucasnoman7@gmail.com)
