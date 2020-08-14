@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Welcome, you are! 👋 <(-_-)>
 :coffee: Big fan of technology and coffee
-:computer: I'm junior developer
+<br/>:computer: I'm junior developer
 
  :school:  &nbsp; Currently, son of "a" **PUC**
  <br/> :green_book: &nbsp; Aiming to learn more about web development and system security and Vue.JS
