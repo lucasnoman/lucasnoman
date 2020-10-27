@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 :coffee: Big fan of technology and coffee
 <br/>:computer: I'm junior developer
 
- :school:  &nbsp; Currently, son of **PUC**
+ :school:  &nbsp; Currently, son of **PUC Minas**
  <br/> :green_book: &nbsp; Aiming to learn more about web development and Vue.JS
  <br/> 💬  &nbsp; About me: I also like information security, play with Photoshop, games like ESO and a lot of series
  <br/> :email: &nbsp; Contact me at: [![Linkedin Badge](https://img.shields.io/badge/-LucasCNoman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-calhau-noman-45209b95/)](https://www.linkedin.com/in/lucas-calhau-noman-45209b95/) 
