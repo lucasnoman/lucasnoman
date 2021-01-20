@@ -36,7 +36,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasnoman&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasnoman&show_icons=true)
 
 
 [instagram]: https://instagram.com/lucasnoman
