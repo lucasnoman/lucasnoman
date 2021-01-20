@@ -27,8 +27,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1265/1265531.svg?token=exp=1611160132~hmac=af2b3d882683b4d8185c056f24ce2816"/>
+<img align="left" alt="Git" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1611160085~hmac=bf4e8c7d8bdae731957d12e300749526" />
 <img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1611159910~hmac=27ac1760fc0c68dd81f3868723916388" />
 
 <br />
