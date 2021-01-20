@@ -6,9 +6,9 @@
 
 - ☕️ Big fan of technology and coffee
 - 💻 I'm junior developer
-- 🏫 Currently, son of PUC Minas
-- 📗 Aiming to learn more about web development and Vue.JS
-- 💬 About me: I also play a bit with Photoshop, used to play games like ESO and lol, and I watch a lot of series
+- 🏫 Currently, son of PUC Minas (finishing 1/2021)
+- 📗 Aiming to learn more about web development, using React, React Native and Vue.JS
+- 💬 About me: I also play a bit with Photoshop, used to play games like ESO, LoL and BF4, and I watch a lot of series
 
 
 ### Connect with me:
