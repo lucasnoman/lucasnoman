@@ -1,29 +1,43 @@
-<!--
-**lucasnoman/lucasnoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lucas Calhau Noman
 
 
-<img width="auto" src="https://github.com/lucasnoman/lucasnoman/blob/master/Banner%20qr%20linkedin.png">
+### Welcome, you are! 👋 <(-_-)>
 
 
-# Lucas C. Noman
+- ☕️ Big fan of technology and coffee
+- 💻 I'm junior developer
+- 🏫 Currently, son of PUC Minas
+- 📗 Aiming to learn more about web development and Vue.JS
+- 💬 About me: I also play a bit with Photoshop, used to play games like ESO and lol, and I watch a lot of series
 
-## Welcome, you are! 👋 <(-_-)>
-:coffee: Big fan of technology and coffee
-<br/>:computer: I'm junior developer
 
- :school:  &nbsp; Currently, son of **PUC Minas**
- <br/> :green_book: &nbsp; Aiming to learn more about web development and Vue.JS
- <br/> 💬  &nbsp; About me: I also like information security, play with Photoshop, games like ESO and a lot of series
- <br/> :email: &nbsp; Contact me at: [![Linkedin Badge](https://img.shields.io/badge/-LucasCNoman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-calhau-noman-45209b95/)](https://www.linkedin.com/in/lucas-calhau-noman-45209b95/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-lucasnoman7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasnoman7@gmail.com)](mailto:lucasnoman7@gmail.com)
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611159204~hmac=2a5f456f244b0302faa5510599aab812" />][linkedin]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611159068~hmac=77eba7775e23e8156df3a8ba9679f6d0" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasnoman&show_icons=true&theme=dark)
+
+
+[instagram]: https://instagram.com/lucasnoman
+[linkedin]: https://linkedin.com/in/lucascnoman
