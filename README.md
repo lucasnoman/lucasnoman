@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611159204~hmac=2a5f456f244b0302faa5510599aab812" />][linkedin]
+[<img align="left" alt="lucasnoman | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">][linkedin]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611159068~hmac=77eba7775e23e8156df3a8ba9679f6d0" />][instagram]
+[<img align="left" alt="lucasnoman | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">][instagram]
 
 <br />
 
@@ -27,9 +27,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1265/1265531.svg?token=exp=1611160132~hmac=af2b3d882683b4d8185c056f24ce2816"/>
-<img align="left" alt="Git" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1611160085~hmac=bf4e8c7d8bdae731957d12e300749526" />
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1611159910~hmac=27ac1760fc0c68dd81f3868723916388" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width:100%;">
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;">
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;">
 
 <br />
 <br />
